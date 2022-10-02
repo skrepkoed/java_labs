@@ -1,15 +1,20 @@
 package lr1;
 
+import java.util.Scanner;
+
 public class Hyp_with_custom_power {
-	static double a =3.0, b=4.0, c;
 	public static void main(String[] args) {
-		System.out.println("katet а=" + a);
-		System.out.println("katet b=" + b);
-		System.out.println("hypotenuse с=" + hyp());
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter katet a: ");
+		double a =input.nextDouble();
+		System.out.println("Enter katet b: ");
+		double b =input.nextDouble();
+		System.out.println("hypotenuse с=" + hyp(a,b));
+		input.close();
 
 	}
-	public static double hyp(){
-		return c = Math.sqrt(Math.exp(2*Math.log(a)) + Math.exp(2*Math.log(b)));
+	public static double hyp(double a, double b){
+		return Math.sqrt(Math.exp(2*Math.log(a)) + Math.exp(2*Math.log(b)));
 		}
 
 }
