@@ -2,7 +2,7 @@ package lr1;
 
 import java.util.Scanner;
 
-public class name_and_age {
+public class Name_and_age {
 	public static void main (String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter your name:");
