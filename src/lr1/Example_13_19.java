@@ -2,7 +2,7 @@ package lr1;
 
 import java.util.Scanner;
 
-public class Hyp_with_custom_power {
+public class Example_13_19 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter katet a: ");

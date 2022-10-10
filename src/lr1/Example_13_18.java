@@ -1,6 +1,6 @@
 package lr1;
 
-public class Hyp_with_parameters {
+public class Example_13_18 {
 	static double a =10.0, b=4.0, c;
 	public static void main(String[] args) {
 		System.out.println("katet а=" + a);

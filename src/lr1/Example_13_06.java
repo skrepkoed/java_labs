@@ -1,6 +1,6 @@
 package lr1;
 
-public class Example6 {
+public class Example_13_06 {
 	static double a =10.0, b=4.0, c;
 	public static double hyp(){
 		return c = Math.sqrt(a*a + b*b);

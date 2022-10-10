@@ -3,7 +3,7 @@ package lr1;
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class Year_of_birth {
+public class Example_13_12 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

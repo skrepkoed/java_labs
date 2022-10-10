@@ -1,6 +1,6 @@
 package lr1;
 
-public class Example2 {
+public class Example_13_02 {
 
 	public static void main(String[] args) {
 		int num; 
