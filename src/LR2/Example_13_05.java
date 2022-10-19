@@ -1,6 +1,5 @@
 package LR2;
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class Example_13_05 {
