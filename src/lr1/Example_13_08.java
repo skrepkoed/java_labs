@@ -1,8 +1,8 @@
-package LR1;
+package lr1;
 
 import java.util.Scanner;
 
-public class greeting {
+public class Example_13_08 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter your last name:");
