@@ -1,0 +1,553 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_01",
+            "request": "launch",
+            "mainClass": "java_labs/LR2.Example_13_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_02",
+            "request": "launch",
+            "mainClass": "java_labs/LR2.Example_13_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_03",
+            "request": "launch",
+            "mainClass": "java_labs/LR2.Example_13_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_04",
+            "request": "launch",
+            "mainClass": "java_labs/LR2.Example_13_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_05",
+            "request": "launch",
+            "mainClass": "java_labs/LR2.Example_13_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_01",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_02",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_03",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_04",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_05",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_06",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_06",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_07",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_07",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_08",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_08",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_09",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_09",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_10",
+            "request": "launch",
+            "mainClass": "java_labs/LR3.Example_10",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_01(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_02(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_03(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_04(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_05(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_06",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_06",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_07",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_07",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_08",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_08",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_09",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_09",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_10",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_10",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_11",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_11",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_12",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_12",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_13",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_13",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_14",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_14",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_15",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_15",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_16",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_16",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_17",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_17",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_18",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_18",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_19",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_19",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_13_20",
+            "request": "launch",
+            "mainClass": "java_labs/lr1.Example_13_20",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example2",
+            "request": "launch",
+            "mainClass": "java_labs/lr31.Example2",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_01(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_02(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_03(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_04(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_05(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_06(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_06",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_07(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_07",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_08(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr4.Example_08",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_01(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr5.Example_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_02(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr5.Example_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_03(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr5.Example_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_04(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr5.Example_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_05(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr5.Example_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_06(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr5.Example_06",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_01(3)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_02(3)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_03(3)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_04(3)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_05(3)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_06(3)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_06",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_07(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_07",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_08(2)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_08",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_09(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_09",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_10(1)",
+            "request": "launch",
+            "mainClass": "java_labs/lr6.Example_10",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_01(4)",
+            "request": "launch",
+            "mainClass": "java_labs/lr7.Example_01",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_02(4)",
+            "request": "launch",
+            "mainClass": "java_labs/lr7.Example_02",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_03(4)",
+            "request": "launch",
+            "mainClass": "java_labs/lr7.Example_03",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_04(4)",
+            "request": "launch",
+            "mainClass": "java_labs/lr7.Example_04",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_05(4)",
+            "request": "launch",
+            "mainClass": "java_labs/lr7.Example_05",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Buf_RW_2",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.Buf_RW_2",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Buf_WR_IO_4",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.Buf_WR_IO_4",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Buff_RW_3",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.Buff_RW_3",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch File_ByteRead_Sam_Buffer",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.File_ByteRead_Sam_Buffer",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch File_RW_byByte",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.File_RW_byByte",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch FilesData",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.FilesData",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Files_byteRW_my2",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.Files_byteRW_my2",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch InConvertInText",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.InConvertInText",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch KlassFile1",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.KlassFile1",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch KlassFile2",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.demo.KlassFile2",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_02_Copy_File_WIth_condition",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.main_examples.Example_02_Copy_File_WIth_condition",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_03_Select_words",
+            "request": "launch",
+            "mainClass": "java_labs/lr8.main_examples.Example_03_Select_words",
+            "projectName": "java_labs"
+        }
+    ]
+}
