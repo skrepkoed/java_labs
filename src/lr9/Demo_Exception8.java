@@ -1,7 +1,5 @@
 package lr9;
-
-public class Demo_Exception8 {
-    public class Main {
+class Main {
         public static int m() {
             try {
                 System.out.println("0");
@@ -11,6 +9,7 @@ public class Demo_Exception8 {
             }
         }
     }
+public class Demo_Exception8 {
     public static void main(String[] args) {
         System.out.println(Main.m());
     }

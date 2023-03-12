@@ -1,6 +1,6 @@
 package lr9;
 
-public class Demo_Excepetion7 {
+public class Demo_Exception7 {
     public static void main(String[] args) {
     try {
         System.out.println("0");

@@ -1,11 +1,11 @@
 package lr9;
-
-public class Demo_Exception14 {
-    public class Main {
-        public static void m(int x) throws ArithmeticException {
-            int h = 10 / x;
-        }
+class Main {
+    public static void m(int x) throws ArithmeticException {
+        int h = 10 / x;
     }
+}
+public class Demo_Exception14 {
+     
     public static void main(String[] args) {
         try {
             int l = args.length;
