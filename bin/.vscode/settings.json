@@ -5,6 +5,5 @@
         "org.springframework.lang.NonNull"
     ],
     "java.configuration.runtimes": [],
-    "java.debug.settings.onBuildFailureProceed": true,
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.debug.settings.onBuildFailureProceed": true
 }
