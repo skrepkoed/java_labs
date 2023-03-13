@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinksParser",
+            "request": "launch",
+            "mainClass": "lr10.LinksParser",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "JsonParser",
+            "request": "launch",
+            "mainClass": "lr10.JsonParser",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "JsonCreator",
+            "request": "launch",
+            "mainClass": "lr10.JsonCreator",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
             "name": "XmlParser",
             "request": "launch",
             "mainClass": "lr10.XmlParser",

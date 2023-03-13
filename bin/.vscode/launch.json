@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "XmlParser",
+            "request": "launch",
+            "mainClass": "lr10.XmlParser",
+            "projectName": "user-identity-rest"
+        },
+        {
+            "type": "java",
+            "name": "XmlParser",
+            "request": "launch",
+            "mainClass": "XmlParser",
+            "projectName": "user-identity-rest"
+        },
+        {
+            "type": "java",
+            "name": "XmlParser",
+            "request": "launch",
+            "mainClass": "lr10.XmlParser",
+            "projectName": "java_labs_a8bef6ae"
+        },
+        {
+            "type": "java",
+            "name": "CreateXMLFile",
+            "request": "launch",
+            "mainClass": "lr10.CreateXMLFile",
+            "projectName": "java_labs_a8bef6ae"
+        },
+        {
+            "type": "java",
             "name": "CreateXMLFile",
             "request": "launch",
             "mainClass": "java_labs/lr10.CreateXMLFile",
