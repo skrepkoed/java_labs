@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReadExcelFileExample",
+            "request": "launch",
+            "mainClass": "lr10.ReadExcelFileExample",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "WriteExcelFileExample",
+            "request": "launch",
+            "mainClass": "lr10.WriteExcelFileExample",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "AnotherParser",
+            "request": "launch",
+            "mainClass": "lr10.AnotherParser",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
             "name": "LinksParser",
             "request": "launch",
             "mainClass": "lr10.LinksParser",
