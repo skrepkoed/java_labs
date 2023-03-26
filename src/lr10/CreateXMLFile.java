@@ -2,6 +2,8 @@ package lr10;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
+import java.util.Scanner;
+
 import org.w3c.dom.*;
 public class CreateXMLFile {
     public static void main(String[] args) {
@@ -43,7 +45,7 @@ public class CreateXMLFile {
             Element year2 =doc.createElement("year");
             year2.appendChild(doc.createTextNode("1967"));
             book2.appendChild(year2);
-
+            addBook(doc, rootElement);
             // Write to XML
             doc.setXmlStandalone(true);
             doc.normalizeDocument();
@@ -62,5 +64,24 @@ public class CreateXMLFile {
         } catch (Exception e) {
             // TODO: handle exception
         }
+    }
+
+    public static void addBook(Document doc, Element rootElement) {
+        Element book = doc.createElement("book");
+        rootElement.appendChild(book);
+        Element title = doc.createElement("title");
+        System.out.println("Enter book title: ");
+        Scanner input =new Scanner(System.in);
+        title.appendChild(doc.createTextNode(input.nextLine()));
+        book.appendChild(title);
+        Element author= doc.createElement("author");
+        System.out.println("Enter author: ");
+        author.appendChild(doc.createTextNode(input.nextLine()));
+        book.appendChild(author);
+        Element year =doc.createElement("year");
+        System.out.println("Enter year: ");
+        year.appendChild(doc.createTextNode(input.nextLine()));
+        book.appendChild(year);
+        input.close();
     }
 }

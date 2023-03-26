@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "XmlParser",
+            "request": "launch",
+            "mainClass": "lr10.XmlParser",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "CreateXMLFile",
+            "request": "launch",
+            "mainClass": "lr10.CreateXMLFile",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
             "name": "ReadExcelFileExample",
             "request": "launch",
             "mainClass": "lr10.ReadExcelFileExample",
