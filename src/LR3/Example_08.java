@@ -8,7 +8,7 @@ public class Example_08 {
 		char a='A';
 		for(int i=0; i<array_length;) {
 			switch (a) {
-			case 'A','E','O','U','I':{
+			case 'A':{
 				break;
 			}
 			default:{
