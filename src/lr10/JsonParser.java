@@ -14,7 +14,7 @@ public class JsonParser {
     public static void main(String[] args) {
         JSONParser parser = new JSONParser();
         try {
-            addBook("src/lr10/example.json");
+            //addBook("src/lr10/example.json");
             String path = "src/lr10/example.json";
             Object obj = parser.parse(new FileReader(path));    
             JSONObject jsonobj = (JSONObject) obj;
@@ -22,7 +22,7 @@ public class JsonParser {
             JSONArray jsonarray = (JSONArray) jsonobj.get("books");
             print_books(jsonarray);
             print_books(search_by(jsonobj, "title","ccde"));
-            delete_books_by(path,jsonobj,"title", "abc");
+            delete_books_by(path,jsonobj,"title", "Война и Мир");
         } catch (Exception e) {
             // TODO: handle exception
         }  
