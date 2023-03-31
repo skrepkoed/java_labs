@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Example_3",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Example_3",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Example_2",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Example_2",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_1",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Example_1",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception14",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception14",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception12",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception12",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception11",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception11",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception10",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception10",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception9",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception9",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception8",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception8",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Excepetion7",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Excepetion7",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception5",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception5",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception4",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception4",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception3",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception3",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception2",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception2",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo_Exception1",
+            "request": "launch",
+            "mainClass": "java_labs/lr9.Demo_Exception1",
+            "projectName": "java_labs"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
