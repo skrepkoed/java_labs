@@ -5,7 +5,7 @@ public class RecursionExample5 {
         //InnerRecursionExample5 tree=new InnerRecursionExample5();
         MyNode<Integer> tree=new MyNode<Integer>();
         //System.out.println(fib(3,tree));
-        tree.setData(fib(3, tree));
+        tree.setData(fib(5, tree));
         
 
     }
@@ -15,15 +15,18 @@ public class RecursionExample5 {
         int fib2;
         if (i==0) {
             tree.setChild1(new MyNode<Integer>(0));
+            System.out.println("0 ");
             return 0;
         }else if(i==1){
             tree.setChild1(new MyNode<Integer>(1));
+            System.out.println("1 ");
             return 1;
         }else{
             tree.setChild1(new MyNode<Integer>());
             tree.setChild2(new MyNode<Integer> ());
             fib1=fib(i-1,tree.getChild1());
             fib2=fib(i-2,tree.getChild2());
+            System.out.println(fib1+" "+fib2+" ");
             tree.getChild1().setData(fib1);
             tree.getChild2().setData(fib2);
             return fib1+fib2;
